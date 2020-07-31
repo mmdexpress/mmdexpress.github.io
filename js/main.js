@@ -225,9 +225,6 @@
       });
 
 
-/* 10. WOW active */
-    new WOW().init();
-
 
 
 
